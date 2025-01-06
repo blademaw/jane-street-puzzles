@@ -4,7 +4,7 @@ Every month, quantitative trading firm [Jane Street](https://www.janestreet.com/
 
 ## Solve history
 
-(in reverse chronological order; note that _difficulty_ is my opinion and relative—even an "easy" problems can be nontrivial)
+(in reverse chronological order; note that _difficulty_ is my opinion and relative—even "easy" problems are often nontrivial)
 
 | Year | Month | Puzzle | Attempted? | Solved? | Difficulty |
 | ---- | ----- | ------ | ---------- | ------- | ---------- |
