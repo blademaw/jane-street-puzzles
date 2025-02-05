@@ -8,7 +8,8 @@ Every month, quantitative trading firm [Jane Street](https://www.janestreet.com/
 
 | Year | Month | Puzzle | Attempted? | Solved? | Difficulty |
 | ---- | ----- | ------ | ---------- | ------- | ---------- |
-| 2025 | Jan | Somewhat Square Sudoku | :heavy_check_mark: | [:heavy_check_mark:](https://blademaw.github.io/posts/2025/02/js-puzzle-2025-01/) | 🟡 Medium |
+|  | Feb | Top Score (Give or Take) | :heavy_check_mark: | :heavy_check_mark: | 🟡 Medium |
+| 2025 | Jan | [Somewhat Square Sudoku](https://www.janestreet.com/puzzles/somewhat-square-sudoku-index/) | :heavy_check_mark: | [:heavy_check_mark:](https://blademaw.github.io/posts/2025/02/js-puzzle-2025-01/) | 🟡 Medium |
 |  |Dec|[Games Night!](https://www.janestreet.com/puzzles/games-night-index/)|:heavy_check_mark:|:heavy_check_mark:|🟢 Easy|
 |  |Nov|[Beside the Point](https://www.janestreet.com/puzzles/beside-the-point-index/)|:heavy_check_mark:|:heavy_check_mark:|🟡 Medium|
 |  |Oct|[Knight Moves 6](https://www.janestreet.com/puzzles/knight-moves-6-index/)|:heavy_check_mark:|:heavy_check_mark:|🟢 Easy|
