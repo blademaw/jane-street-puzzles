@@ -4,11 +4,12 @@ Every month, quantitative trading firm [Jane Street](https://www.janestreet.com/
 
 ## Solve history
 
-(in reverse chronological order; note that _difficulty_ is my opinion and relative—even "easy" problems are often nontrivial)
+(in reverse chronological order; note that _difficulty_ is my opinion and relative—even "easy" problems are often nontrivial and may require more than a day of work to solve)
 
 | Year | Month | Puzzle | Attempted? | Solved? | Difficulty |
 | ---- | ----- | ------ | ---------- | ------- | ---------- |
-|  | Feb | Top Score (Give or Take) | :heavy_check_mark: | :heavy_check_mark: | 🟡 Medium |
+|  | Mar | [Hall of Mirrors 3](https://www.janestreet.com/puzzles/current-puzzle/) | :heavy_check_mark: | :heavy_check_mark: | 🟢 Easy |
+|  | Feb | [Top Score (Give or Take)](https://www.janestreet.com/puzzles/top-score-give-or-take-index/) | :heavy_check_mark: | :heavy_check_mark: | 🟡 Medium |
 | 2025 | Jan | [Somewhat Square Sudoku](https://www.janestreet.com/puzzles/somewhat-square-sudoku-index/) | :heavy_check_mark: | [:heavy_check_mark:](https://blademaw.github.io/posts/2025/02/js-puzzle-2025-01/) | 🟡 Medium |
 |  |Dec|[Games Night!](https://www.janestreet.com/puzzles/games-night-index/)|:heavy_check_mark:|:heavy_check_mark:|🟢 Easy|
 |  |Nov|[Beside the Point](https://www.janestreet.com/puzzles/beside-the-point-index/)|:heavy_check_mark:|:heavy_check_mark:|🟡 Medium|
