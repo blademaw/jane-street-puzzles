@@ -8,7 +8,8 @@ Every month, quantitative trading firm [Jane Street](https://www.janestreet.com/
 
 | Year | Month | Puzzle | Attempted? | Solved? | Difficulty |
 | ---- | ----- | ------ | ---------- | ------- | ---------- |
-|  | Mar | [Hall of Mirrors 3](https://www.janestreet.com/puzzles/current-puzzle/) | :heavy_check_mark: | :heavy_check_mark: | 🟢 Easy |
+|  | Apr | [Sum One, Somewhere](https://www.janestreet.com/puzzles/current-puzzle/) | :heavy_check_mark: | :heavy_check_mark: | 🟡 Medium |
+|  | Mar | [Hall of Mirrors 3](https://www.janestreet.com/puzzles/hall-of-mirrors-3-index/) | :heavy_check_mark: | :heavy_check_mark: | 🟢 Easy |
 |  | Feb | [Top Score (Give or Take)](https://www.janestreet.com/puzzles/top-score-give-or-take-index/) | :heavy_check_mark: | :heavy_check_mark: | 🟡 Medium |
 | 2025 | Jan | [Somewhat Square Sudoku](https://www.janestreet.com/puzzles/somewhat-square-sudoku-index/) | :heavy_check_mark: | [:heavy_check_mark:](https://blademaw.github.io/posts/2025/02/js-puzzle-2025-01/) | 🟡 Medium |
 |  |Dec|[Games Night!](https://www.janestreet.com/puzzles/games-night-index/)|:heavy_check_mark:|:heavy_check_mark:|🟢 Easy|
